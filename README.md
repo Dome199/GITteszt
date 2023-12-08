@@ -1,2 +1,2 @@
 # GITteszt
-Csat tanulom a githubot.
+Csak tanulom a githubot.
